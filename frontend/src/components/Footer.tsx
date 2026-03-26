@@ -81,6 +81,12 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <div className="relative bottom-0 left-0 w-full bg-gray-800 text-gray-400 py-1 mt-4 mb-0 z-10">
+
+      <div className='mx-auto flex justify-center text-xs'>
+        <span>developed by <a href="https://portfolio-rosy-delta-jtovhd9h4r.vercel.app/" className='text-white text-sm'>Shaurya Kumar Gupta </a></span>
+      </div>
+      </div>
     </footer>
   );
 };
